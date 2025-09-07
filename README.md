@@ -11,7 +11,7 @@ It gave me the opportunity to practice and demonstrate my **SQL querying skills*
 ## Why SQL Magic?  
 Although a purely Pythonic solution (e.g., using pandas or SQLAlchemy) would be more generalizable, in this project I wanted to:  
 - Practice **writing raw SQL queries**.  
-- Show familiarity with **joins, filtering, grouping, and subqueries**.  
+- Show familiarity with **joins, filtering and subqueries**.  
 - Highlight how SQL can be used as a powerful tool for **data exploration and investigation**.  
 
 ## Skills Demonstrated  
@@ -20,5 +20,5 @@ Although a purely Pythonic solution (e.g., using pandas or SQLAlchemy) would be 
 - Working with relational data and applying logical reasoning to reach conclusions  
 
 ## Notes  
-I have other projects that focus more on Python and data analysis techniques. Here, the main goal was to practice and present my **SQL abilities** through an applied example.  
+I have [other projects](https://github.com/giorgos-iatridis?tab=repositories) that focus more on Python and data analysis techniques. Here, the main goal was to practice and present my **SQL abilities** through an applied example.  
 
